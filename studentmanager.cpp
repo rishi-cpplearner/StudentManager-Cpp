@@ -7,7 +7,7 @@ int main()
 {
     std::string x;
     std::map<std::string, int> studentMarks;
-    std::string UserInput;
+    std::string UserInput = "";
     std::vector<int> help;
     std::string highestStudent;
     int helping;
